@@ -43,7 +43,7 @@ nav a:hover {
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/invocacaodomal3.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../img/invocacaodomal3.jpg');
     background-size: cover;/*com esse elemento a imagem vai cobri a caixa*/
     height: 540px;
 
